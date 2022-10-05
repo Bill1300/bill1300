@@ -10,9 +10,6 @@ import Desenvolvedor from 'Bill1300';
     }
 ```
 <div text-align='left'>
-  <a href='https://bill1300.github.io/Bill1300/' alt='GitHub'>
-    <img src='https://img.shields.io/badge/-GitHub-121212?style=flat-circle&labelColor=121212&logo=github&logoColor=fff'/>
-  </a>
   <a href='https://instagram.com/bill1300' alt='Instagram'>
     <img src='https://img.shields.io/badge/-Instagram-DF0174?style=flat-circle&labelColor=DF0174&logo=instagram&logoColor=fff'/></a>
   <a href='https://bill1300.wordpress.com' alt='Wordpress'>
